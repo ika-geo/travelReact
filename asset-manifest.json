@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/github.io/travelReact/static/css/main.84109e9c.css",
-    "main.js": "/github.io/travelReact/static/js/main.5337de5a.js",
+    "main.js": "/github.io/travelReact/static/js/main.203907b4.js",
     "static/media/hedaerBottom.png": "/github.io/travelReact/static/media/hedaerBottom.e89dd430fbe32a3feb3e.png",
     "static/media/homeBG.png": "/github.io/travelReact/static/media/homeBG.e89dd430fbe32a3feb3e.png",
     "static/media/SienaAndSurrounding (2).jpg": "/github.io/travelReact/static/media/SienaAndSurrounding (2).62382fed501b6a194738.jpg",
@@ -47,10 +47,10 @@
     "static/media/offer.webp": "/github.io/travelReact/static/media/offer.a888cc60a707fc8ab6ea.webp",
     "index.html": "/github.io/travelReact/index.html",
     "main.84109e9c.css.map": "/github.io/travelReact/static/css/main.84109e9c.css.map",
-    "main.5337de5a.js.map": "/github.io/travelReact/static/js/main.5337de5a.js.map"
+    "main.203907b4.js.map": "/github.io/travelReact/static/js/main.203907b4.js.map"
   },
   "entrypoints": [
     "static/css/main.84109e9c.css",
-    "static/js/main.5337de5a.js"
+    "static/js/main.203907b4.js"
   ]
 }
