@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/travelReact/static/css/main.d6daf7b6.css",
-    "main.js": "/travelReact/static/js/main.d0bbb630.js",
+    "main.js": "/travelReact/static/js/main.b750ac10.js",
     "static/media/hedaerBottom.png": "/travelReact/static/media/hedaerBottom.e89dd430fbe32a3feb3e.png",
     "static/media/homeBG.png": "/travelReact/static/media/homeBG.e89dd430fbe32a3feb3e.png",
     "static/media/SienaAndSurrounding (2).jpg": "/travelReact/static/media/SienaAndSurrounding (2).62382fed501b6a194738.jpg",
@@ -47,10 +47,10 @@
     "static/media/offer.webp": "/travelReact/static/media/offer.a888cc60a707fc8ab6ea.webp",
     "index.html": "/travelReact/index.html",
     "main.d6daf7b6.css.map": "/travelReact/static/css/main.d6daf7b6.css.map",
-    "main.d0bbb630.js.map": "/travelReact/static/js/main.d0bbb630.js.map"
+    "main.b750ac10.js.map": "/travelReact/static/js/main.b750ac10.js.map"
   },
   "entrypoints": [
     "static/css/main.d6daf7b6.css",
-    "static/js/main.d0bbb630.js"
+    "static/js/main.b750ac10.js"
   ]
 }
